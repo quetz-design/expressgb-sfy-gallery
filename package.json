@@ -1,13 +1,19 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "private": true,
+  "name": "sfy-demo",
+  "version": "0.0.0",
+  "description": "Simple Node.js demo app on top of storify API",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "3.4.3",
-    "jade": "*",
+    "express": "3.2.5",
+    "superagent": "0.14.6",
+    "consolidate": "0.9.1",
+    "handlebars": "1.0.12",
     "sass": "*"
-  }
+  },
+  "repository": "",
+  "author": "quetz",
+  "license": "BSD"
 }
