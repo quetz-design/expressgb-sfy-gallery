@@ -11,9 +11,11 @@
     "superagent": "0.14.6",
     "consolidate": "0.9.1",
     "handlebars": "1.0.12",
-    "sass": "*"
   },
-  "repository": "",
-  "author": "quetz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quetz-design/expressgb-sfy-gallery.git"
+  },
+  "author": "quet",
   "license": "BSD"
 }
